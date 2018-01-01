@@ -1525,7 +1525,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff3366;
+  background-color: #f7ed4a;
 }
 .cid-qFbfb1ziPZ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1778,8 +1778,8 @@ body {
   color: #767676;
 }
 .cid-qFb8M9SBh0 {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 .cid-qFbfb1ziPZ .navbar {
@@ -1944,7 +1944,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff3366;
+  background-color: #f7ed4a;
 }
 .cid-qFbfb1ziPZ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2203,8 +2203,8 @@ body {
   text-align: center;
 }
 .cid-qFb8M9SBh0 {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 .cid-qFh6f1iVvy {
@@ -2394,7 +2394,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff3366;
+  background-color: #f7ed4a;
 }
 .cid-qFbfb1ziPZ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2622,8 +2622,8 @@ body {
   color: #f9f295 !important;
 }
 .cid-qFb8M9SBh0 {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 .cid-qFh6aaRUlM {
@@ -2807,7 +2807,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff3366;
+  background-color: #f7ed4a;
 }
 .cid-qFbfb1ziPZ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3035,8 +3035,8 @@ body {
   color: #f9f295 !important;
 }
 .cid-qFb8M9SBh0 {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #2e2e2e;
 }
 .cid-qFjIwcfEeg .navbar {
@@ -3201,7 +3201,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff3366;
+  background-color: #f7ed4a;
 }
 .cid-qFjIwcfEeg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3702,7 +3702,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ff3366;
+  background-color: #f7ed4a;
 }
 .cid-qFbfb1ziPZ button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4042,6 +4042,9 @@ body {
   .cid-qFkrahLjo8 .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
+}
+.cid-qFkrahLjo8 .mbr-text B {
+  color: #073b4c;
 }
 .cid-qFb8M9SBh0 {
   padding-top: 45px;
