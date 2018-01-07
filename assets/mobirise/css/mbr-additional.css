@@ -2232,6 +2232,9 @@ body {
 .cid-qFfC53kye4 blockquote {
   color: #767676;
 }
+.cid-qFfC53kye4 .mbr-text P {
+  text-align: left;
+}
 .cid-qFbfb1ziPZ .navbar {
   background: #149dcc;
   transition: none;
