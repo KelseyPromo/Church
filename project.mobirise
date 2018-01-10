@@ -969,7 +969,7 @@
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
-              "color": "#767676"
+              "color": "#ffffff"
             }
           },
           "_name": "content4",
@@ -994,10 +994,13 @@
             },
             ".mbr-text": {
               "text-align": "center"
+            },
+            ".mbr-text P": {
+              "color": "#ffffff"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ff7f9f\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Sunday Fellowships |&nbsp;Annual Picnic | Christmas Fellowship</b></p><p><b>Annual Thanksgiving service that is held at 10:30 a.m.</b></p><p><b style=\"font-size: 1rem;\">Annual Meeting of the Mother Church Webcast&nbsp;</b><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ff3366\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Sunday Fellowships |&nbsp;Annual Picnic | Christmas Fellowship</b></p><p><b>Annual Thanksgiving service that is held at 10:30 a.m.</b></p><p><b style=\"font-size: 1rem;\">Annual Meeting of the Mother Church Webcast&nbsp;</b><br></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qFfQaTRove",
           "_anchor": "content1-o",
           "_protectedParams": [],

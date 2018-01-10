@@ -2185,12 +2185,12 @@ body {
   background-color: #ff7f9f;
 }
 .cid-qFfODKEUR2 .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-qFfQaTRove {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ff7f9f;
+  background-color: #ff3366;
 }
 .cid-qFfQaTRove .mbr-text,
 .cid-qFfQaTRove blockquote {
@@ -2201,6 +2201,9 @@ body {
 }
 .cid-qFfQaTRove .mbr-text {
   text-align: center;
+}
+.cid-qFfQaTRove .mbr-text P {
+  color: #ffffff;
 }
 .cid-qFb8M9SBh0 {
   padding-top: 45px;
