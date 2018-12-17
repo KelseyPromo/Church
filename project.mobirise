@@ -37,7 +37,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 91,
+    "uniqCompNum": 95,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -3080,6 +3080,20 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.673795100958!2d-83.47492078501645!3d42.37079074241728!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824acd1837f2e57%3A0xa475ab32ffe3ad8f!2s1100+W+Ann+Arbor+Trail%2C+Plymouth%2C+MI+48170!5e0!3m2!1sen!2sus!4v1545014457999\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"></iframe>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2m",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {

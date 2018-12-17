@@ -3971,6 +3971,12 @@ body {
 .cid-qFaEyKeGp9 .card-wrapper {
   height: 100%;
 }
+#custom-html-2m {
+  /* Type valid CSS here */
+}
+#custom-html-2m .my-image {
+  width: 100%;
+}
 .cid-qFkrahLjo8 {
   padding-top: 45px;
   padding-bottom: 15px;
