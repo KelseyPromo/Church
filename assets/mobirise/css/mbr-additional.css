@@ -3252,6 +3252,24 @@ section.lazy-placeholder:after {
 .cid-qFavquxsLG H1 {
   color: #ffffff;
 }
+.cid-rXoiqBQG3c {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rXoiqBQG3c .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rXoiqBQG3c .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rXoiqBQG3c .mbr-text {
+  color: #767676;
+}
 .cid-qFaBylH6gd {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -3291,6 +3309,12 @@ section.lazy-placeholder:after {
 }
 .cid-qFaEyKeGp9 .card-wrapper {
   height: 100%;
+}
+#custom-html-2m {
+  /* Type valid CSS here */
+}
+#custom-html-2m .my-image {
+  width: 100%;
 }
 .cid-qFkrahLjo8 {
   padding-top: 45px;
