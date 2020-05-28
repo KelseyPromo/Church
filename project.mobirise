@@ -3273,7 +3273,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/plymouth3-85x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -3284,7 +3284,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/plymouth-2-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -3327,6 +3327,17 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/plymouth1-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/plymouth8.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/plymouth3.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/plymouth3-85x48.png",
+                "title": "title 1",
+                "text": "text 1",
                 "active": false,
                 "alt": ""
               }
