@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "First Church of Christ, Scientist, Plymouth",
-    "currentPage": "Index.html",
+    "currentPage": "Nurses.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4304,7 +4304,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><b>Christian Science Visiting Nurses \n</b></div><div><b>\n</b></div><div>Christian Science nurses provide skilled, practical care that is grounded in the spiritual healing method of Christian Science. Here is the contact information for the Visiting Christian Science Nurse Service for Michigan: \n</div><div>\n</div><div>Web site: <a href=\"http://aocsn.org/\">aocsn.org/</a> \n</div><div>\n</div><div>Direct to a nurse: <b>800-237-6867</b> \n</div><div>Office Phone: 734-459-5850 \n</div><div>Fax: 734-459-5851 \n</div><div>Email: csvnsm@gmail.com \n</div><div><br></div><div>\nVisiting Christian Science Nurse Service for Michigan</div><div>PO Box 702072 \n</div><div>Plymouth, MI 48170</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><div><b>Christian Science Visiting Nurses \n</b></div><div><b>\n</b></div><div>Christian Science nurses provide skilled, practical care that is grounded in the spiritual healing method of Christian Science. Here is the contact information:<br><br></div><div><b>Noontide Visiting Christian Science Nurse Service of Michigan</b></div><div>\n</div><div>Direct to a nurse: <b>517-582-0575</b> \n</div><div>Office Phone: 734-459-5850</div><div>Email: office@noontidecs.org<br><br></div><div>Noontide Visiting Christian Science Nurse Service of Michigan</div><div>PO Box 702072 \n</div><div>Plymouth, MI 48170</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qG9CCmvi5B",
           "_anchor": "content1-2h",
           "_protectedParams": [],
